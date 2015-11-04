@@ -1,2 +1,7 @@
 body { text-align: left; background: url ( "http://i.cdn.turner.com/cnn/2011/LIVING/02/26/mnn.dog.composter/t1larg.dog.composter.jpg") ;
 background-size:cover;}
+
+h1 {
+	font-size:40px;
+}
+p{font-size: 20px}
