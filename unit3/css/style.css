@@ -2,11 +2,9 @@ body { text-align: center; background: url(http://www.luxstores.com/images/drawi
 background-size:cover;}
 
 p {font-size: 30px;}
-
+img.profile {max-width:  900px; }
 img{
 	max-width:400px;
 	height:auto;
 }
 
-
-img.profile {max-width:  900px; }
