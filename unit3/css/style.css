@@ -2,3 +2,8 @@ body { text-align: center; background: url(http://www.luxstores.com/images/drawi
 background-size:cover;}
 
 p {font-size: 30px;}
+
+img{
+	max-width:400px;
+	height:auto;
+}
