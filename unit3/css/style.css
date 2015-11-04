@@ -1,5 +1,5 @@
-body { text-align: center; background-image: url ("bathroom.jpg");
-background-size:cover;}
+body { text-align: center; background: url("bathroom.jpg");
+}
 
 h1 {
 	font-size :100px;
