@@ -1,7 +1,8 @@
-body { text-align: center; background: url("http://www.stlouiscountymn.gov/portals/0/Library/Land-Property/Garbage-n-Recycling/Garbage-Disposal/Packer-truck.jpg");
+body { text-align: left; color:(119,78,60);
+	background: url(http://www.hkcleanup.org/sites/default/files/styles/article_full/public/landfill.jpg);
 }
 
 h1 {
-	font-size :100px;
+	font-size :75px;
 }
 p{font-size: 20px;}
