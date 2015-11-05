@@ -1,8 +1,8 @@
-body { text-align: left; color:(119,78,60);
+body { text-align: left; color:#COCOCO;
 	background: url(http://www.hkcleanup.org/sites/default/files/styles/article_full/public/landfill.jpg);
-}
+background-size:cover;}
 
 h1 {
-	font-size :75px;
+	font-size: 50px;
 }
 p{font-size: 20px;}
