@@ -3,6 +3,9 @@ body { text-align: left;
 background-size:cover;}
 h1, p {color: red;}
 h1, p {font-family: sans-serif;}
+p{
+	line line-height: 1.4em
+}
 h1 {
 	font-size: 50px;
 }
