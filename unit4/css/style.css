@@ -1,9 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Unkempt:700);
+@import url(https://fonts.googleapis.com/css?family=Monoton);
 body { text-align: left; 
 	background: url(../bathroom.jpg);
 background-size:cover;}
-h1, p {color: red;
-font-family: 'Unkempt', cursive;}
+h1 {color: red; font-family: 'Monoton', cursive;}
+ p {color: red;
+font-family: sans-serif;}
 
 h1 {
 	font-size: 50px;
