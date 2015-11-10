@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Monoton);
+@import url(https://fonts.googleapis.com/css?family=Kranky);
 body { text-align: left; 
 	background: url(../bathroom.jpg);
 background-size:cover;}
-h1 {color: red; font-family: 'Monoton', cursive;}
+h1 {color: red; font-family: 'Kranky', cursive;}
  p {color: red;
 font-family: sans-serif;}
 
