@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope);
+@import url(https://fonts.googleapis.com/css?family=Codystar);
 body { text-align: left; 
 	background: url(.../bathroom.jpg);
 background-size:cover;}
 h1, p {color: red;
-font-family: 'Annie Use Your Telescope', cursive;}
+font-family: 'Codystar', cursive;}
 
 h1 {
 	font-size: 50px;
