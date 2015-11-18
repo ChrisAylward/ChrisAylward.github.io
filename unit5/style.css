@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Kranky);
+body { text-align: left; 
+	background: url(../bathroom.jpg);
+background-size:cover;}
+h1 {color: red; font-family: 'Kranky', cursive;}
+ p {color: red;
+font-family: 'Kranky', cursive;;}
+
+h1 {
+	font-size: 75px;
+}
+div.header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+p{ font-size: 35px;}
