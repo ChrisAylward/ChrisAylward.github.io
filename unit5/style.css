@@ -9,7 +9,7 @@ font-family: 'Kranky', cursive;;}
 h1 {
 	font-size: 75px;
 }
-div.header{
+.header{
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
