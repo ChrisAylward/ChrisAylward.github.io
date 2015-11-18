@@ -9,10 +9,10 @@ font-family: 'Kranky', cursive;;}
 h1 {
 	font-size: 75px;
 }
-.header{
+#header{
 	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
+	margin:10px;
+	height:90px;
 }
 
 p{ font-size: 35px;}
