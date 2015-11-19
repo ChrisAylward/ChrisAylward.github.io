@@ -1,4 +1,13 @@
 
+*, 
+*:before,
+ *:after {  
+ margin: 0; 
+padding: 0; 
+ -moz-box-sizing: border-box; 
+ -webkit-box-sizing: border-box; 
+box-sizing: border-box; 
+}
 @import url(https://fonts.googleapis.com/css?family=Kranky);
 body { text-align: left; 
 	background: url(../bathroom.jpg);
