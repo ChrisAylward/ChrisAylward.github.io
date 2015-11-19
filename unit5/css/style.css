@@ -1,15 +1,14 @@
-body {background: url(../bathroom.jpg);
+
+@import url(https://fonts.googleapis.com/css?family=Kranky);
+body { text-align: left; 
+	background: url(../bathroom.jpg);
+background-size:cover;}
+h1 {color: red; font-family: 'Kranky', cursive;}
+ p {color: red;
+font-family: 'Kranky', cursive;;}
+
+h1 {
+	font-size: 75px;
 }
-h1 {color:#E8C66A;
-font-size: 50px}
-#header {background-color: #FFED74;
-         border:1px white solid;
-         height:90px;
-         margin: 10px;
-         padding: .2em 2em;
-}
-#navbar {background-color: #E8C66A;
-         border:1px white solid;
-         height:45px;
-           margin: 10px;
-        }
+
+p{ font-size: 35px;}
