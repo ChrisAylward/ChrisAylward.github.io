@@ -12,7 +12,7 @@ padding: 20px;
 {
  visibility: hidden;
  display: block;
- content: none;
+ content: " ";
  clear: both;
  height: 0;
  font-size: 0;
