@@ -11,9 +11,9 @@ padding: 20px;
 .clearfix:after
 {
  visibility: hidden;
- display:block;
- content:none;
- clear:both;
+ display: block;
+ content: none;
+ clear: both;
  height: 0;
  font-size: 0;
 }
