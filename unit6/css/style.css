@@ -18,7 +18,7 @@ aside{
 	margin: 10px 10px 0px 10px;
 	text-align:  center;
 }
-aside:hover {background-color:#E89C6C ; }
+aside:hover {background-color: #E89C6C; }
 article{
 	     background-color: #E89C6C;
 	border: 1px black solid;
@@ -26,7 +26,7 @@ article{
 	margin: 0px 10px 10px 10px;
 	text-align:  center;
 }
-article:hover{background-color: #FFC675;}
+article:hover {background-color: #FFC675;}
 footer{
 	     background-color: #FF957E;
 	border: 1px black solid;
