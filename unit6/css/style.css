@@ -17,6 +17,7 @@ aside{
 	padding: 20px;
 	margin: 10px 10px 0px 10px;
 	text-align:  center;
+	float: left;
 }
 aside:hover {background-color: #E89C6C; }
 article{
@@ -34,6 +35,7 @@ footer{
 	border: 1px black solid;
 	padding: 20px;
 	text-align:  center;
+	clear: both;
 }
 div/section{
 	   background-color: #FFED74;
