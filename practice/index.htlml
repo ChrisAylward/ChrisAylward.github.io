@@ -2,3 +2,11 @@
 <html>
        <head><link rel="stylesheet" type="text/css" href="css/style.css"
        rel="stylesheet" type="text/css" href="css/style.css"  href="css/reset.css"
+        
+        <title>float practice</title>
+</head>
+
+<body> 
+<div>test</div>
+</body>
+<html></html>
