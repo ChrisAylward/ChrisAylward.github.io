@@ -29,6 +29,7 @@ article{
 	text-align:  center;
 	float: left;
 	width:60%;
+	clear: both;
 }
 article:hover {background-color: #FFC675;}
 
