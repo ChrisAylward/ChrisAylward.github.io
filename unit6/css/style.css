@@ -11,7 +11,7 @@ nav{
 	padding: 20px;
 	text-align:  center;
 }
-aside{
+div#aside{
       background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
@@ -21,7 +21,7 @@ aside{
 	width: 32%;
 }
 aside:hover {background-color: #E89C6C; }
-article{
+div#article{
 	     background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
